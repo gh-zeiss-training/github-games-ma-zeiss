@@ -2,7 +2,7 @@
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
-You can play the game at: [https://githubschool.github.io/github-games/](https://gh-zeiss-training.github.io/github-games-ma-zeiss/index.html)
+You can play the game at: [https://gh-zeiss-training.github.io/github-games-ma-zeiss/index.html](https://gh-zeiss-training.github.io/github-games-ma-zeiss/index.html)
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
